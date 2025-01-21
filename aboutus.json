@@ -1,0 +1,34 @@
+{
+  "appName": "BlackLogics",
+  "developerName": "BlackLogics",
+  "discordInviteLink": "https://discord.gg/kq39yhT4rX",
+  "moddersteam": [
+    {
+      "modder_username": "Jbk0",
+      "modder_description": "Main modder",
+      "modder_img": "https://avatars.githubusercontent.com/u/40118124",
+      "isTitled": true,
+      "isMainModder": true,
+      "isActive": true,
+      "title": "Main Modder"
+    },
+    {
+      "modder_username": "Hasrat",
+      "modder_description": "Main modder",
+      "modder_img": "https://i.imgur.com/jrc4CFx.jpg",
+      "isTitled": false,
+      "isMainModder": true,
+      "isActive": true,
+      "title": null
+    }
+  ],
+  "changelog": [
+    {
+      "title": "BlackLogics v1.0",
+      "description": "Welcome to the initial version of BlackLogics! Experience a fresh start with all features streamlined for optimal performance.\n\n**Highlighted Features:**\n- Complete support for Java 1.9, 10, and 11 in project compilation.\n- Added syntax highlighting for Kotlin and XML files.\n- Auto-install and launch of projects using root access.\n- Enhanced user experience with improved dialogs, faster performance, and a sleek interface.\n\n**Fixes:**\n- Resolved compatibility issues with Firebase and Google Maps libraries.\n- Fixed various app crashes and improved stability across all modules.\n- Debug logs and ProGuard optimizations.\n\n**Updates:**\n- Default Android SDK upgraded to version 33.\n- Added support for exporting projects in signed APK or AAB formats.\n\nThank you for choosing BlackLogics!",
+      "releaseDate": 1705814400000,
+      "isBeta": false,
+      "isTitled": true
+    }
+  ]
+}
